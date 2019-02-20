@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-service.com.love.plus.auth-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-service.com.love.plus.auth-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-service.com.love.plus.auth-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-service.com.love.plus.auth-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.love.plus.api-gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/com.love.plus.api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.love.plus.api-gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.love.plus.api-gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.love.plus.api-gateway.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.love.plus.api-gateway.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.love.plus.auth-service.iml" filepath="$PROJECT_DIR$/.idea/modules/com.love.plus.auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.love.plus.auth-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.love.plus.auth-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.love.plus.auth-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.love.plus.auth-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.love.plus.ecomm.iml" filepath="$PROJECT_DIR$/.idea/modules/com.love.plus.ecomm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.love.plus.ecomm.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.love.plus.ecomm.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.love.plus.ecomm.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.love.plus.ecomm.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.love.plus.order-service.iml" filepath="$PROJECT_DIR$/.idea/modules/com.love.plus.order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.love.plus.order-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.love.plus.order-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.love.plus.order-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.love.plus.order-service.test.iml" />
+    </modules>
+  </component>
+</project>

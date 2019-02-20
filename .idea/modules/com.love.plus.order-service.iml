@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="com.love.plus" externalSystemModuleVersion="0.0.1-SNAPSHOT" linkedProjectId="order-service" linkedProjectPath="$MODULE_DIR$/../../order-service" rootProjectPath="$MODULE_DIR$/../../order-service" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../order-service">
+      <excludeFolder url="file://$MODULE_DIR$/../../order-service/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../order-service/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../order-service/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

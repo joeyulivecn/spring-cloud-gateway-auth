@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="auth-service.com.love.plus.auth-service.main" target="1.8" />
+      <module name="auth-service.com.love.plus.auth-service.test" target="1.8" />
+      <module name="com.love.plus.api-gateway.main" target="1.8" />
+      <module name="com.love.plus.api-gateway.test" target="1.8" />
+      <module name="com.love.plus.auth-service.main" target="1.8" />
+      <module name="com.love.plus.auth-service.test" target="1.8" />
+      <module name="com.love.plus.ecomm.main" target="1.8" />
+      <module name="com.love.plus.ecomm.test" target="1.8" />
+      <module name="com.love.plus.order-service.main" target="1.8" />
+      <module name="com.love.plus.order-service.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
