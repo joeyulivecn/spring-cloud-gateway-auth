@@ -1,5 +1,6 @@
 package com.love.plus.orderservice;
 
+import com.love.plus.orderservice.annotation.CurrentUser;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.http.ResponseEntity;
@@ -16,12 +17,12 @@ public class OrderServiceApplication {
     }
 
     @GetMapping("/api/v1/m/order")
-    public ResponseEntity<String> getMobileOrder() {
-        return ResponseEntity.ok("mobile order");
+    public ResponseEntity<String> getMobileOrder(@CurrentUser Long userId) {
+        return ResponseEntity.ok("mobile order of " + userId);
     }
 
     @GetMapping("/api/v1/order")
-    public ResponseEntity<String> getOrder() {
-        return ResponseEntity.ok("admin order");
+    public ResponseEntity<String> getOrder(@CurrentUser Long userId) {
+        return ResponseEntity.ok("admin order of " + userId);
     }
 }
